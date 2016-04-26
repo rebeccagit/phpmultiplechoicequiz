@@ -21,7 +21,6 @@
 <p>Discover your personality with this quiz! It's based off of Myers-Briggs Typology Indicator (MBTI). You don't have to answer all the questions, but the more you answer then the more accurate your answer will be.</p>
 <p>Check out my Star Wars <a href="http://aceprogrammers.com/scifiquiz/starwarsquiz/starwarsquiz.html">Quiz!</a>
 <br><br>
-<div class="fb-like" data-href="https://www.sparklespaint.com/" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>
 </div>
 
 
